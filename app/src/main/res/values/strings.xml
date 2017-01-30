@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACME meat store</string>
+    <string name="home">Home</string>
+    <string name="services">Services</string>
+    <string name="products">Products</string>
+    <string name="stores">Stores</string>
+    <string name="introduction">Introduction</string>
+    <string name="introduction_text">In ACME Meat Stores we provide you the best meats, cold cuts, pre-cooked meals, among other gourmet meals. If you have an event and want to impress you guests with fresh and yummy products, contact us.</string>
+    <string name="delivery">Delivery</string>
+    <string name="delivery_text">Order today and we will deliver the next day in your home.</string>
+    <string name="traditional_cut">Traditional cut</string>
+    <string name="traditional_cut_text">We don\'t have prepared cuts. Our cut is hand crafted and traditional.</string>
+    <string name="store_gala">ACME Meat Store Gala Placidia</string>
+    <string name="store_sagrada">ACME Meat Store Sagrada Familia</string>
+    <string name="services_text">This are our services: list of services, and also we want to show you how meat is healthy with the following tweets</string>
+    <string name="products_text">This are our products, take a look at all the pictures</string>
+    <string name="google_maps_api_key">AIzaSyDS7dLsZiTFOpRpR49RbmbZ-yoiGSS9x6Q</string>
+    <string name="fabric_twitter_key">4kqFbzgkqqMF4hOC7pEjuT41R</string>
+    <string name="fabric_twitter_secret">JyjzTycyWmI3pXRqBEknopxt8u7Kvd8gSYEPJz6GIQIXQxUsx9</string>
+    <string name="flickr_api_key">277dc74e911230adcc9de3a9c1424f6f</string>
+</resources>

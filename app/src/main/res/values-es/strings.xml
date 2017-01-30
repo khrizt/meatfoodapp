@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Canicerías ACME</string>
+    <string name="home">Inicio</string>
+    <string name="services">Servicios</string>
+    <string name="products">Productos</string>
+    <string name="stores">Tiendas</string>
+    <string name="introduction">Presentación</string>
+    <string name="introduction_text">En Carnicerías ACME ponemos a su disposición las mejores carnes, embutidos y platos preparados, entre otras delícias gourmet. Si tienen un evento y quieren deleitar a sus invitados con unos productos sanos frescos y sabrosos, contacten con nosotros.</string>
+    <string name="delivery">Reparto a domicilio</string>
+    <string name="delivery_text">Realicen su pedido hoy mismo y mañana lo tendrán listo en su domicilio.</string>
+    <string name="traditional_cut">Corte tradicional</string>
+    <string name="traditional_cut_text">No tenemos bandejas preparadas. Nuestro corte es artesano y tradicional.</string>
+    <string name="store_gala">Carnicerías ACME Gala Placídia</string>
+    <string name="store_sagrada">Carnicerías ACME Sagrada Família</string>
+    <string name="services_text">Estos son nuestros servicios: lista de servicios, y también queremos demostrarles que la carne es sana con los siguientes tweets.</string>
+    <string name="products_text">Estos son nuestros productos, eche un vistazo a todas nuestras fotos.</string>
+</resources>
